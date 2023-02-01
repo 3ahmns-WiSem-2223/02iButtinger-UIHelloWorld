@@ -3,7 +3,7 @@ Ein simpler Counter
 Dort ist eine Scene mit main Menu und es wechselt wenn man auf den Button drückt zu einer Counter szene.
 In der Counter Szene sind zwei Buttons: ein +1 Button und ein -1 Button welche die Zahl verändert.
 
-Unity Version 2020.3.18f
+Unity Version 2020.3.18f1
 C#
 Visual Studios 2019
 
